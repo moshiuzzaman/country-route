@@ -1,0 +1,7 @@
+.country {
+    border: 1px solid red;
+    float: left;
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+}
